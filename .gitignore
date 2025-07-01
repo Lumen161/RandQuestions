@@ -1,4 +1,5 @@
 # Byte-compiled / optimized / DLL files
+app/__pycache__/
 __pycache__/
 *.py[cod]
 *$py.class
@@ -28,6 +29,7 @@ coverage.xml
 
 # PyCharm
 .idea/
+
 
 # VS Code
 .vscode/
